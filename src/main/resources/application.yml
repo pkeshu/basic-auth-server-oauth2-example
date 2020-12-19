@@ -1,0 +1,19 @@
+server:
+  port: 9191
+
+#spring:
+#  security:
+#    user:
+#      password: kesharpass
+#      name: keshar
+#      roles: ADMIN,MODERATOR
+#security:
+#  oauth2:
+#    client:
+#      client-id: mobile
+#      client-secret: pin
+#      access-token-validity-seconds: 3600
+#      authorized-grant-types: password,authorization_code,refresh_token,client_credentials
+#      scope: READ,WRITE
+#    authorization:
+#      check-token-access: permitAll
